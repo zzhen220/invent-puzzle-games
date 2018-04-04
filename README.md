@@ -1,1 +1,1 @@
-# invent-python-gmaes
+# invent-python-games
